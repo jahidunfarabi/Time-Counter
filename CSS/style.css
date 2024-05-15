@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blueviolet;
+
+
+}
+
+.parent {
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+}
+
+.mainbox {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+
+
+}
+
+.output {
+    padding: 2px 4px;
+    background-color: black;
+    color: blue;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    text-align: center;
+}
+
+.taketime,
+.Sbtn,
+.Ebtn {
+    padding: 10px;
+    outline-color: blue;
+
+}
+
+
+.H {
+    text-align: center;
+    padding: 2px 4px;
+    background-color: aquamarine;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
