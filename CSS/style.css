@@ -24,6 +24,7 @@ body {
 
 .output {
     padding: 2px 4px;
+    border-color: brown;
     background-color: black;
     color: blue;
     border-radius: 4px;
